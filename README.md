@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tylertechtyler
+- 👀 I’m interested in learning as much as I can with the time that I am given
+- 🌱 I’m currently learning javascript, php, and mysql
+- 💞️ I’m looking to collaborate on beginner friendly projects in stacks that I am somewhat familiar with
+- 📫 How to reach me: checkout my portfolio page!
