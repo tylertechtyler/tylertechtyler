@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tylertechtyler
 - 👀 I’m interested in learning as much as I can with the time that I am given
-- 🌱 I’m currently learning React, Node, Express, and MongoDB
+- 🌱 I’m currently learning React, Node, Express, and MongoDB but what I really love is Tailwind CSS
